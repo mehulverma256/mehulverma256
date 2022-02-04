@@ -2,16 +2,14 @@
 <h1 align="center"> Hello, Everyone ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
 <h2>🙋‍♂️ About Me</h2>
-<img width="55%" align="right" alt="Github" src="https://media2.giphy.com/media/YFFGUPTPTRqIhwepA4/giphy.gif?cid=790b7611d55a9ffb362d130901ba97a1db4d238db2995e8d&rid=giphy.gif&ct=g" />
+<img width="45%" align="right" alt="Github" src="https://media2.giphy.com/media/YFFGUPTPTRqIhwepA4/giphy.gif?cid=790b7611d55a9ffb362d130901ba97a1db4d238db2995e8d&rid=giphy.gif&ct=g" />
 
 - 🔭 Well, I am **Mehul Verma** Meticulous and Motivated undergraduate student pursuing my **B.Tech** in **Computer Science Engineering** from **NIT - Bhopal**.  
 - ⚡ I have a keen interest in **Back-End Development** & **Problem-Solving**.
 
 - 💻 I have done some projects in the field of Web Development and Python.
   
-- 🤝 I’m looking forward to collaborate on more projects that can increase my knowledge base and get me more experience on workng in the field.
-  
-- ⚡ Fun fact : Best Part Of The Journey Is : **It Ends**     
+- 🤝 I’m looking forward to collaborate on more projects that can increase my knowledge base and get me more experience on workng in the field. 
 
 
 <h2>🚀 Languages and Tools:</h2>
