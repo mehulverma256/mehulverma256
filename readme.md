@@ -38,9 +38,9 @@
 
  
 
-<h2>🔗 Social Links:</h2>
+<h2>🔗 Social Links:<a href="https://mehulverma256.github.io/"></a></h2>
 <p>
-<a href="https://mehulverma256.github.io/"></a>
+
 </p>
 
 
