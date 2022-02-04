@@ -40,7 +40,7 @@
 
 <h2>🔗 Social Links:</h2>
 <p>
-<a href="https://mehulverma256.github.io"> <img src="https://unpkg.com/browse/simple-icons@3.4.0/icons/githubactions.svg" width=32px></a>
+<a href="https://mehulverma256.github.io"> <img src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU=s180-rw" width=32px></a>
 </p>
 
 
