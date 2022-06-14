@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hello, Everyone ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1 align="center"> Hello, Everyone ! </h1>
 
 <h2>🙋‍♂️ About Me</h2>
 <img width="45%" align="right" alt="Github" src="https://media0.giphy.com/media/3o7abkwfIVAeDT6RSU/giphy.gif?cid=790b7611b96a20c6d772981b168569c18e158f33a309ee37&rid=giphy.gif&ct=g" />
