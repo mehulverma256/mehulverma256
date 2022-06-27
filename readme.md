@@ -5,7 +5,7 @@
 <img width="45%" align="right" alt="Github" src="https://media0.giphy.com/media/3o7abkwfIVAeDT6RSU/giphy.gif?cid=790b7611b96a20c6d772981b168569c18e158f33a309ee37&rid=giphy.gif&ct=g" />
 
 - 🔭 Well, I am **Mehul Verma** Meticulous and Motivated undergraduate student pursuing my **B.Tech** in **Computer Science Engineering** from **NIT - Bhopal**.  
-- ⚡ I have a keen interest in **Back-End Development** & **Problem-Solving**.
+- ⚡ I have a keen interest in **Full Stack Development** & **Problem-Solving**.
 
 - 💻 I have done some projects in the field of Web Development and Python.
   
